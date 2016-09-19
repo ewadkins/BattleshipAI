@@ -19,7 +19,7 @@ def choose(board, lengths):
 
 def getName():
     '''
-    Return the name of your AI.
-    :return: a string of the name of your AI.
+    Return the name of your player.
+    :return: a string of the name of your player.
     '''
     return "Terrible Bot";
